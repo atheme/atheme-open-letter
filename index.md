@@ -23,3 +23,7 @@ Moving forward, we consider Andrew's regime to be illegitimate. Atheme is free s
 Signed,
 
 - Ariadne Conill (original author of Atheme, founding member of atheme.org)
+
+## Community
+
+- Síle Ekaterin Aman (atheme.org bug-tracker admin)
