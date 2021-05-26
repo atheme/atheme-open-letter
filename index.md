@@ -1,5 +1,5 @@
 ---
-title: An open letter from Atheme's developers and community on freenode
+title: An open letter from Atheme's developers and community 
 ---
 
 For nearly as long as [Atheme.org](http://atheme.org) has existed, we've worked hand in hand with freenode to create an amazing environment for free and open-source software to prosper. Atheme members contributed to freenode's previous IRC daemon, hyperion, and continued that commitment to the community with our work on [charybdis](https://github.com/charybdis-ircd/charybdis) — the base for ircd-seven — as well as with our work on Atheme IRC Services, the services package which has served freenode well for over a decade. 
