@@ -26,6 +26,7 @@ Signed,
 - Alyx Wolcott (atheme developer, atheme.org member)
 - Christine Dodrill (former contributor)
 - Jessica Williams (former contributor)
+- Nicole Kleinhoff (atheme maintainer, atheme.org member)
 
 ## Community
 
