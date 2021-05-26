@@ -29,6 +29,7 @@ Signed,
 - Jessica Williams (former contributor)
 - Devin Brown (former tester/contributor)
 - Nicole Kleinhoff (atheme maintainer, atheme.org member)
+- Robin Burchell (former contributor)
 
 ## Community
 
