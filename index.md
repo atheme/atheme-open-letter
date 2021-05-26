@@ -32,6 +32,7 @@ Signed,
 - Robin Burchell (former contributor)
 - Aaron Jones (atheme maintainer, atheme.org member)
 - Elly Fong-Jones (former contributor)
+- Alex Iadicicco (former contributor)
 
 ## Community
 
