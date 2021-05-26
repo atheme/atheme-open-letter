@@ -21,3 +21,5 @@ Moving forward, we consider Andrew's regime to be illegitimate. Atheme is free s
 **Atheme calls on all free software projects large and small to reject the network managed by the new freenode administration.** Instead, choose networks built on the same principles which Atheme has always stood for: mutual trust and community autonomy.
 
 Signed,
+
+- Ariadne Conill (original author of Atheme, founding member of atheme.org)
