@@ -24,9 +24,9 @@ Signed,
 
 - Ariadne Conill (original author of Atheme, founding member of atheme.org)
 - Alyx Wolcott (atheme developer, atheme.org member)
+- Christine Dodrill (former contributor)
+- Jessica Williams (former contributor)
 
 ## Community
 
-- Christine Dodrill (former contributor)
-- Jessica Williams (former contributor)
 - Síle Ekaterin Aman (atheme.org bug-tracker admin)
