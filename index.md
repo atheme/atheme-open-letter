@@ -36,3 +36,4 @@ Signed,
 ## Community
 
 - Síle Ekaterin Aman (atheme.org bug-tracker admin)
+- Naia Ōkami (chatautism.com IRC network administrator)
