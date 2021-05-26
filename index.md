@@ -27,4 +27,6 @@ Signed,
 
 ## Community
 
+- Christine Dodrill (former contributor)
+- Jessica Williams (former contributor)
 - Síle Ekaterin Aman (atheme.org bug-tracker admin)
