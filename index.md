@@ -24,6 +24,7 @@ Signed,
 
 - Ariadne Conill (original author of Atheme, founding member of atheme.org)
 - Alyx Wolcott (atheme developer, atheme.org member)
+- Austin Ellis (former contributor)
 - Christine Dodrill (former contributor)
 - Jessica Williams (former contributor)
 - Nicole Kleinhoff (atheme maintainer, atheme.org member)
