@@ -27,6 +27,7 @@ Signed,
 - Austin Ellis (former contributor)
 - Christine Dodrill (former contributor)
 - Jessica Williams (former contributor)
+- Devin Brown (former tester/contributor)
 - Nicole Kleinhoff (atheme maintainer, atheme.org member)
 
 ## Community
