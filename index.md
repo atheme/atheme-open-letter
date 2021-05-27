@@ -33,6 +33,7 @@ Signed,
 - Aaron Jones (atheme maintainer, atheme.org member)
 - Elly Fong-Jones (former contributor)
 - Alex Iadicicco (former contributor)
+- Elizabeth Myers (former contributor)
 
 ## Community
 
